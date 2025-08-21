@@ -58,6 +58,7 @@ public class StackDemo {
         } while (choice != 5);
 
       }
+       sc.close();
     }
     /* public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -92,3 +93,4 @@ public class StackDemo {
 
         scanner.close();                   
     }                       */
+
